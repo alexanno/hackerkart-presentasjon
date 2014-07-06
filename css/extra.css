@@ -15,3 +15,8 @@
     width: 200px;
     height: 41px;
 }
+
+img {
+    border: none !important;
+    box-shadow: none !important;
+}
