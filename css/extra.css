@@ -1,0 +1,17 @@
+#bouvet_logo {
+    background: url("../img/bouvet_logo.png");
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 154px;
+    height: 41px;
+}
+
+#norkart_logo {
+    background: url("../img/norkart_logo.png");
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 200px;
+    height: 41px;
+}
